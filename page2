@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>New Year Page</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<canvas id="fireworks"></canvas>
+
+<div class="page">
+  <h1>🎆 Happy New Year 2026</h1>
+  <p>New dreams, new hopes, new beginnings 🌟</p>
+
+  <div class="nav">
+    <a href="page1.html">⬅️ Previous</a>
+    <a href="page3.html">Next ➡️</a>
+  </div>
+</div>
+
+<script src="fireworks.js"></script>
+</body>
+</html>
